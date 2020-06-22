@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Алгоритмы построения пирамиды", "Алгоритмы построения пирамиды\Алгоритмы построения пирамиды.vcxproj", "{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Debug|x64.ActiveCfg = Debug|x64
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Debug|x64.Build.0 = Debug|x64
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Debug|x86.Build.0 = Debug|Win32
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Release|x64.ActiveCfg = Release|x64
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Release|x64.Build.0 = Release|x64
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Release|x86.ActiveCfg = Release|Win32
+		{536D3792-F8DE-4EDF-9AF4-E229F79E40B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B15D79C-BF2C-4C05-B802-A76A01FD1BD4}
+	EndGlobalSection
+EndGlobal
